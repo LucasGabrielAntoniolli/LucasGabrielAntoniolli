@@ -1,8 +1,8 @@
 # Sobre mim 👦
 ```
-Sou iniciante na área da programação , moro na cidade de Pato Branco - PR,
+Sou iniciante na área da programação, moro na cidade de Pato Branco - PR,
 
-nasci em 22/02/2005 tenho 17 anos.
+nasci em 22/02/2005 tenho 18 anos.
 ```
 ## Meu começo 🚀
 ```
@@ -24,5 +24,5 @@ as empresas Limber Software, Xpert Tecnologia e Gew Tecnologia.
 ```
 Atualmente estou estagiando como desenvolvedor Front end na empresa Limber Software.  
 
-Sei Programar em Javascript, uso jQuery, domino Html e css.
+Sei Programar em Javascript e Typescript, uso JQuery e Angular, domino Html e css.
 ```
