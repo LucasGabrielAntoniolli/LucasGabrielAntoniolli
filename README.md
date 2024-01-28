@@ -1,6 +1,6 @@
 # 👦🏼 Quem sou eu 
 ```
-Sou desenvolvedor residente em
+Sou desenvolvedor web residente em
 Pato Branco, Paraná, Brasil 🇧🇷
 ```
 ## 🚀 Meu começo 
