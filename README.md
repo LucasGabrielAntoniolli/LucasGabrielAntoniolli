@@ -1,22 +1,21 @@
-# Quem sou eu 👦🏼
+# 👦🏼 Quem sou eu 
 ```
-Sou desenvolvedor da cidade
-de Pato Branco, Paraná, Brasil 🇧🇷
+Sou desenvolvedor residente em
+Pato Branco, Paraná, Brasil 🇧🇷
 ```
-## Meu começo 🚀
+## 🚀 Meu começo 
 ```
 Comecei a me interessar por desenvolvimento de software
 no curso Técnico em Informática
-do Colégio Estadual de Pato Branco, 
-que iniciei em 2020.
+do Colégio Estadual de Pato Branco, (2020/2024).
 
 Aprofundei meu conhecimento em
-programação web no projeto NewDev,
-que ocorreu de abril à agosto de
-2022, ofertado pelo centro
-universitário Mater Dei em parceria
-com as empresas Limber Software,
-Xpert Tecnologia e Gew Tecnologia. 
+programação no projeto NewDev,
+que ocorreu em 2022 durante 5 mêses,
+ofertado pelo centro universitário
+Mater Dei em parceria com as empresas
+Limber Software, Xpert Tecnologia
+e Gew Tecnologia. 
 ```
 ## 📋 Experiência
 ```
