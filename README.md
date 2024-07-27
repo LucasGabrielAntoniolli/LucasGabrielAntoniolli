@@ -19,8 +19,8 @@ e Gew Tecnologia.
 ```
 ## 📋 Experiência
 ```
-Atualmente estou atuando como desenvolvedor Web na empresa
-Limber Software.  
+Estou atuando como desenvolvedor Web na empresa
+Limber Software desde agosto de 2022.  
 
 
 Uso as ferramentas:
