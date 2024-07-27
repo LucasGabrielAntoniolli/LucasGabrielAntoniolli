@@ -23,11 +23,16 @@ Atualmente estou atuando como desenvolvedor Web na empresa
 Limber Software.  
 
 
-Uso as linguagens: HTML, CSS,
-SCSS, Javascript, Typescript
-e Node.
-
-Uso os frameworks: tailwind,
-bootstrap, JQuery, Angular
-e Express.
+Uso as ferramentas:
+-Angular
+-Typescript
+-Javascript,
+-Express.
+-Node.
+-HTML,
+-CSS,
+-SCSS,
+-Tailwind,
+-Bootstrap,
+-JQuery,
 ```
