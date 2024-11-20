@@ -1,19 +1,19 @@
 # 👦🏼 Olá 
 ```
-Eu sou desenvolvedor web residente em
+Eu sou WEB DEVELOPER em
 Pato Branco, Paraná, Brasil 🇧🇷
 ```
 ## 🚀 Meu começo 
 ```
-Comecei a me interessar por desenvolvimento de software
-no curso Técnico em Informática
-do Colégio Estadual de Pato Branco, (2020/2024).
+Me interessei por desenvolvimento de software
+no curso Profissionalisante Técnico em Informática
+do Governo do Estado, entre 2020 e 2024.
 
-Aprofundei meu conhecimento em
-programação no projeto NewDev,
-que ocorreu em 2022 durante 5 mêses,
-ofertado pelo centro universitário
-Mater Dei em parceria com as empresas
+Aprofundei meus conhecimentos no
+projeto NewDev, que ocorreu em 2022
+durante 5 mêses, ofertado pelo
+centro universitário Mater Dei
+em parceria com as empresas:
 Limber Software, Xpert Tecnologia
 e Gew Tecnologia. 
 ```
@@ -21,18 +21,14 @@ e Gew Tecnologia.
 ```
 Estou atuando como desenvolvedor Web na empresa
 Limber Software desde agosto de 2022.  
-
-
-Uso as ferramentas:
--Angular
--Typescript
--Javascript,
--Express.
--Node.
--HTML,
--CSS,
--SCSS,
--Tailwind,
--Bootstrap,
--JQuery,
 ```
+## Ferramentas que utilizo:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,gitlab,html,java,ts,js,kotlin,jquery,nodejs,postman,sass,tailwind" />
+  </a>
+</p>
+
+#### Angular - Typescript - Javascript - Express - Node - HTML - CSS - SCSS - Tailwind - Bootstrap - JQuery
+
