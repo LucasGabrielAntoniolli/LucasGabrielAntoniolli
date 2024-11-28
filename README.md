@@ -1,6 +1,6 @@
 # 👦🏼 Olá 
 ```
-Eu sou WEB DEVELOPER em
+Eu sou Desenvolvedor FullStack em
 Pato Branco, Paraná, Brasil 🇧🇷
 ```
 ## 🚀 Meu começo 
