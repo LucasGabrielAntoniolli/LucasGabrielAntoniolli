@@ -24,11 +24,5 @@ Limber Software desde agosto de 2022.
 ```
 ## Ferramentas que utilizo:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,gitlab,html,java,ts,js,kotlin,jquery,nodejs,postman,sass,tailwind" />
-  </a>
-</p>
-
 #### Angular - Typescript - Javascript - Express - Node - HTML - CSS - SCSS - Tailwind - Bootstrap - JQuery
 
